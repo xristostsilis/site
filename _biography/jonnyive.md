@@ -14,3 +14,5 @@ tags:
   - Operating System
   - Redisign
 ---
+
+{% include bio-jonnyive.md %}
