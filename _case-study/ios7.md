@@ -10,5 +10,3 @@ tags:
   - Software
   - Apple
 ---
-
-{% include cs-ios7.md %}
