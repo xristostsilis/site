@@ -10,3 +10,4 @@ tags:
   - Software
   - Apple
 ---
+{% include ios7.md %}
